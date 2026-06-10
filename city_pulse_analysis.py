@@ -11,7 +11,7 @@ warnings.filterwarnings('ignore')
 engine = create_engine(URL.create(
     drivername = "postgresql+psycopg2",
     username   = "postgres",
-    password   = "sravya@123",  
+    password   = "**********",  
     host       = "localhost",
     port       = 5432,
     database   = "city_pulse"
