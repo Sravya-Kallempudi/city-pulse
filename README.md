@@ -3,7 +3,7 @@
 A multi-domain urban analytics project analyzing **traffic, air quality, weather, and crime** data using Python, PostgreSQL, Power BI and Streamlit.
 
 ## 🚀 Live Demo
-Live deployment coming soon
+https://city-pulse-hqzhbikx3pqeymnfddfngs.streamlit.app/
 
 ---
 
